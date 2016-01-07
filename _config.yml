@@ -1,0 +1,28 @@
+name: Darren Donhardt Blog
+favicon: null
+layout_spectrum: 0.1461336885113269
+typography_spectrum: 0.5260310913436115
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9354112709406763
+  lightness: 0.885299411136657
+  saturation: 0.0630847264546901
+  rhythmicContrast: 0.9046483309939504
+purpose: []
